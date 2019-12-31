@@ -14,26 +14,26 @@ export class AppComponent {
 		{
 			id: 1,
 			course_title: 'Build Responsive Real World Websites with HTML5 and CSS3',
-			course_image: '../../assets/images/html_course.jpg',
+			course_image: '../assets/images/html_course.jpg',
 			course_price: 2000,
 			course_trainer: 'Ankit Sharma'
 		},
 		{
 			id: 2,
 			course_title: 'CSS3',
-			course_image: '../../assets/images/css_course.jpg',
+			course_image: '../assets/images/css_course.jpg',
 			course_price: 3000
 		},
 		{
 			id: 3,
 			course_title: 'JS',
-			course_image: '../../assets/images/js_course.jpg',
+			course_image: '../assets/images/js_course.jpg',
 			course_price: 5000
 		},
 		{
 			id: 4,
 			course_title: 'jQuery',
-			course_image: '../../assets/images/jquery_course.jpg',
+			course_image: '../assets/images/jquery_course.jpg',
 			course_price: 7000
 		}
 	];
